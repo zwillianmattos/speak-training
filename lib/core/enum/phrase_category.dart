@@ -1,0 +1,22 @@
+enum PhraseCategory {
+  common_expressions,
+  greetings,
+  travel_directions,
+  numbers_and_money,
+  location,
+  phone_internet_mail,
+  time_and_dates,
+  accommodations,
+  dining,
+  making_friends,
+  entertainment,
+  shopping,
+  communication_difficulties,
+  emergency_and_health,
+  cultural_expressions_terms,
+  general_questions,
+  work,
+  weather,
+  verbs,
+  miscellaneous
+}

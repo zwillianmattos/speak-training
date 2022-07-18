@@ -1,0 +1,788 @@
+[
+    {
+        "id": 1,
+        "content": "Be careful.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 2,
+        "content": "Be careful driving.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 3,
+        "content": "Can you translate this for me?Chicago is very different from Boston.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 4,
+        "content": "Don't worry.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 5,
+        "content": "Everyone knows it.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 6,
+        "content": "Everything is ready.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 7,
+        "content": "Excellent.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 8,
+        "content": "From time to time.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 9,
+        "content": "Good idea.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 10,
+        "content": "He likes it very much.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 11,
+        "content": "Help!He's coming soon.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 12,
+        "content": "He's right.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 13,
+        "content": "He's very annoying.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 14,
+        "content": "He's very famous.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 15,
+        "content": "How are you?How's work going?Hurry!I ate already.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 16,
+        "content": "I can't hear you.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 17,
+        "content": "I'd like to go for a walk.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 18,
+        "content": "I don't know how to use it.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 19,
+        "content": "I don't like him.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 20,
+        "content": "I don't like it.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 21,
+        "content": "I don't speak very well.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 22,
+        "content": "I don't understand.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 23,
+        "content": "I don't want it.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 24,
+        "content": "I don't want that.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 25,
+        "content": "I don't want to bother you.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 26,
+        "content": "I feel good.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 27,
+        "content": "If you need my help, please let me know.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 28,
+        "content": "I get off of work at 6.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 29,
+        "content": "I have a headache.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 30,
+        "content": "I hope you and your wife have a nice trip.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 31,
+        "content": "I know.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 32,
+        "content": "I like her.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 33,
+        "content": "I'll call you when I leave.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 34,
+        "content": "I'll come back later.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 35,
+        "content": "I'll pay.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 36,
+        "content": "I'll take it.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 37,
+        "content": "I'll take you to the bus stop.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 38,
+        "content": "I lost my watch.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 39,
+        "content": "I love you.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 40,
+        "content": "I'm an American.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 41,
+        "content": "I'm cleaning my room.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 42,
+        "content": "I'm cold.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 43,
+        "content": "I'm coming to pick you up.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 44,
+        "content": "I'm going to leave.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 45,
+        "content": "I'm good, and you?I'm happy.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 46,
+        "content": "I'm hungry.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 47,
+        "content": "I'm married.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 48,
+        "content": "I'm not busy.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 49,
+        "content": "I'm not married.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 50,
+        "content": "I'm not ready yet.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 51,
+        "content": "I'm not sure.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 52,
+        "content": "I'm sorry, we're sold out.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 53,
+        "content": "I'm thirsty.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 54,
+        "content": "I'm very busy.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 55,
+        "content": " I don't have time now.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 56,
+        "content": "I need to change clothes.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 57,
+        "content": "I need to go home.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 58,
+        "content": "I only want a snack.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 59,
+        "content": "Is Mr.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 60,
+        "content": " Smith an American?Is that enough?I think it's very good.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 61,
+        "content": "I think it tastes good.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 62,
+        "content": "I thought the clothes were cheaper.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 63,
+        "content": "It's longer than 2 miles.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 64,
+        "content": "I've been here for two days.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 65,
+        "content": "I've heard Texas is a beautiful place.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 66,
+        "content": "I've never seen that before.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 67,
+        "content": "I was about to leave the restaurant when my friends arrived.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 68,
+        "content": "Just a little.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 69,
+        "content": "Just a moment.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 70,
+        "content": "Let me check.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 71,
+        "content": "Let me think about it.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 72,
+        "content": "Let's go have a look.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 73,
+        "content": "Let's practice English.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 74,
+        "content": "May I speak to Mrs.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 75,
+        "content": " Smith please?More than that.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 76,
+        "content": "Never mind.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 77,
+        "content": "Next time.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 78,
+        "content": "No.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 79,
+        "content": "Nonsense.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 80,
+        "content": "No, thank you.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 81,
+        "content": "Nothing else.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 82,
+        "content": "Not recently.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 83,
+        "content": "Not yet.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 84,
+        "content": "Of course.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 85,
+        "content": "Okay.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 86,
+        "content": "Please fill out this form.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 87,
+        "content": "Please take me to this address.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 88,
+        "content": "Please write it down.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 89,
+        "content": "Really?Right here.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 90,
+        "content": "Right there.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 91,
+        "content": "See you later.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 92,
+        "content": "See you tomorrow.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 93,
+        "content": "See you tonight.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 94,
+        "content": "She's pretty.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 95,
+        "content": "Sorry to bother you.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 96,
+        "content": "Stop!Take a chance.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 97,
+        "content": "Take it outside.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 98,
+        "content": "Tell me.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 99,
+        "content": "Thanks for everything.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 100,
+        "content": "Thanks for your help.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 101,
+        "content": "Thank you.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 102,
+        "content": "Thank you miss.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 103,
+        "content": "Thank you sir.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 104,
+        "content": "Thank you very much.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 105,
+        "content": "That looks great.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 106,
+        "content": "That's alright.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 107,
+        "content": "That's enough.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 108,
+        "content": "That's fine.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 109,
+        "content": "That's it.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 110,
+        "content": "That smells bad.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 111,
+        "content": "That's not fair.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 112,
+        "content": "That's not right.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 113,
+        "content": "That's right.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 114,
+        "content": "That's too bad.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 115,
+        "content": "That's too many.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 116,
+        "content": "That's too much.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 117,
+        "content": "The book is under the table.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 118,
+        "content": "They'll be right back.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 119,
+        "content": "They're the same.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 120,
+        "content": "They're very busy.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 121,
+        "content": "This doesn't work.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 122,
+        "content": "This is very difficult.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 123,
+        "content": "This is very important.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 124,
+        "content": "Try it.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 125,
+        "content": "Very good, thanks.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 126,
+        "content": "We like it very much.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 127,
+        "content": "Would you take a message please?Yes, really.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 128,
+        "content": "You're beautiful.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 129,
+        "content": "You're very nice.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 130,
+        "content": "You're very smart.",
+        "description": "",
+        "level": 1
+    },
+    {
+        "id": 131,
+        "content": "Your things are all here.",
+        "description": "",
+        "level": 1
+    }
+]
